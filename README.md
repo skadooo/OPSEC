@@ -7,6 +7,9 @@ Repo containing tips and links. Python code snippets when applicable. Will event
 3. Z
 
 ## LINKS
-1. LINK 1
-2. LINK 2
-3. LINK 3
+Links for reference
+### OSINT
+#### Forensics
+1. exifdata.com
+2. extractmetadata.com
+3. archive.org
